@@ -1,4 +1,4 @@
-# AI-Healthcare-chatbot - Personalized Healthcare Chatbot
+# AI-Healthcare - Personalized Healthcare Chatbot
 
 AI-Healthcare-chatbot is an innovative healthcare chatbot that utilizes state-of-the-art GPT (Generative Pre-trained Transformer) models to provide personalized health-related information and assistance. With HealthBot, users can engage in natural language conversations to receive accurate and reliable healthcare advice, tailored to their individual needs and preferences.
 
