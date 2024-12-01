@@ -25,7 +25,8 @@ HealthBot supports a wide range of health-related services, including:
 - Medication reminders
 - Diet and exercise recommendations
 - General health education  
-Additionally, it can connect users with healthcare professionals for further consultations, serving as a comprehensive healthcare companion.
+Additionally, it can connect users with healthcare professionals for further consultations,
+serving as a comprehensive healthcare companion.
 
 ### 4. **Secure and Privacy-Conscious**
 AI-Healthcare is built with data privacy and security as top priorities:
@@ -35,7 +36,8 @@ This ensures confidentiality and the integrity of all user data.
 
 ### 5. **Open-Source and Extensible**
 AI-Healthcare is an open-source project, encouraging community contributions and customization.
-Built with popular frameworks and libraries, extending for specific use cases or integrating with other healthcare systems is easy.
+Built with popular frameworks and libraries, extending for specific use cases or
+integrating with other healthcare systems is easy.
 
 ---
 
@@ -91,4 +93,4 @@ Join us in our mission to democratize access to personalized healthcare informat
 users to make informed health decisions with HealthBot!  
 
 For any questions or support, feel free to contact us through the repository or open an issue.
-```
+
