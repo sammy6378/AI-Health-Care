@@ -1,5 +1,4 @@
 
-```markdown
 # AI-Healthcare - Personalized Healthcare Chatbot
 
 AI-Healthcare is an innovative chatbot that leverages state-of-the-art GPT (Generative Pre-trained Transformer)
